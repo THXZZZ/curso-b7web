@@ -36,6 +36,7 @@ Tecnologias apreendidas nesse curso:
 - [Modulo 05 - Responsividade](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo5)
 - [Modulo 06 - Semântica e CSS Avançado](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo6)
 - [Modulo 07 - Flexbox na prática](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo7)
+- [Modulo 08 - Seletores e CSS3](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo8)
 
 ## :memo: Licença
 

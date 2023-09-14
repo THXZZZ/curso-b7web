@@ -1,0 +1,14 @@
+body {
+    background-color: #555;
+    margin: 0%;
+    padding: 0%;
+}
+header {
+    background-color: #222;
+    height: 100px;
+    color: #FFF;
+    text-align: center;
+}
+dt {
+    background-color: blueviolet;
+}

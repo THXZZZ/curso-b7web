@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+}
+header {
+    font-size: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 1680px;
+    padding-top: 20px;
+    color: #fff;
+}
+.aba {
+    margin-top: 5px;
+    background-color:#fff ;
+    width: 20px;
+    height: 15px;
+}
+.photo {
+    background-color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50% ;
+}
+.gmail {
+    margin-top: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+.lupa {
+    width: 40px;
+    height: 40px;
+    border-top-left-radius:50% ;
+    border-bottom-left-radius:50% ;
+}
+.add_shortcut {
+    width: 80px;
+    height: 80px;
+}
+.add:hover {
+    background-color: #555555;
+    border-radius: 5%;
+}
+.add {
+    margin-left: 320px;
+    color: #fff;
+    text-align: center;
+    width: 100px;
+    height: 130px;
+}
+.Google {
+    margin-top: 50px;
+    object-fit: cover;
+    margin-left: 230px;
+    width: 270px;
+    height: 180px;
+}
+.lens,
+.mic {
+    object-fit: contain;
+    background-color: #fff;
+    width: 40px;
+    height: 40px;
+}
+.lens {
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+#input {
+    border: 0px solid #fff;
+    height: 40px;
+    width: 450px;
+}
+article {
+    margin-left: 600px;
+}
+.barra_search {
+    margin-left: 70px;
+    display: flex;
+}

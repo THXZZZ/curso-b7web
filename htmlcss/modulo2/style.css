@@ -1,0 +1,29 @@
+.textop {
+    background-color: aqua;
+    padding-left: 600px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: aliceblue;
+}
+body {
+    margin: 0px;
+}
+button {
+    background-color: aqua;
+}
+.criar {
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.entrar {
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.link1:hover {
+    color: blue;
+}
+hr {
+    width: auto;
+}

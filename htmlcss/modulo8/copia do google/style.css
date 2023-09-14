@@ -6,7 +6,7 @@ body {
 header {
     font-size: 15px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-evenly ;
     margin-left: 1680px;
     padding-top: 20px;
     color: #fff;

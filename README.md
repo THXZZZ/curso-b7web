@@ -37,7 +37,7 @@ Tecnologias apreendidas nesse curso:
 - [Modulo 06 - Semântica e CSS Avançado](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo6)
 - [Modulo 07 - Flexbox na prática](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo7)
 - [Modulo 08 - Seletores e CSS3](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo8)
-- [Modulo 09 - Seletores e CSS3](https://github.com/THXZZZ/curso-b7web/tree/5f53bb4194442f33135c3693609624a390990903/htmlcss/modulo9)
+- [Modulo 09 - Projeto Awax](https://github.com/THXZZZ/curso-b7web/tree/5f53bb4194442f33135c3693609624a390990903/htmlcss/modulo9/awax)
 
 ## :memo: Licença
 

@@ -376,3 +376,86 @@ CSS DE AREA EXPECIFICAS
 .section-team--social a:hover {
     background-color: #b28756;
 }
+
+
+.client {
+    background-color: #f7f7f7;
+}
+.section-client .slidearea {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    color: #000;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    justify-content: center;
+}
+.section-client--avatar {
+    padding: 20px;
+    width: 182px;
+    height: auto;
+}
+.section-client--name {
+    margin-top: 42px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:14px ;
+}
+.section-client-role {
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #313131;
+}
+.section-client .slidearea h1 {
+    width: 18px;
+    height: auto;
+    margin-top: 14px;
+    margin-bottom: 12px;
+}
+.section-client .slidearea p {
+    font-size: 10px;
+    color: #919191;
+    text-align: center;
+}
+.section-companies {
+    justify-content: center;
+    align-items: center;
+    height: 156px;
+    display:inline-flex;
+    border-top:1px solid #e3e3e3;
+    border-bottom:1px solid #d3d3d3;
+}
+.section-companies img {
+    margin-left: 100px;
+    height: 54px;
+    width: 100%;
+}
+.section-price--type {
+    font-size: 10px;
+}
+.section-prices {
+    display: flex;
+}
+.section-price .slidearea {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    color: #000;
+    justify-content: center;
+}
+.section-price .slide {
+    margin-right: 20px;
+    min-height: 300px;
+    width: 280px;
+    height: 100%;
+    display: inline-block;
+    background-color:#fff;   
+} 
